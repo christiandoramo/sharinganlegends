@@ -2,4 +2,4 @@
 myenv/
 
 # Ignorar pasta de caches Python
-_pycache_/
+**/__pycache__/
