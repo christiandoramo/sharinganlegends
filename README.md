@@ -1,5 +1,6 @@
 # sharinganlegends
 
+- REQ 00: printar, armazenar e deletar imagens
 - REQ 01: converter e salvar legendas em texto
 - REQ 02: converter e salvar textos do video como texto paralelo
 - REQ 03: salvar o print se ocorreu grande mudança ou ha texto diferente na imagem
