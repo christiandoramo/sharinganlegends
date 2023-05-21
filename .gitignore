@@ -1,2 +1,5 @@
-/myenv
-/_pycache_
+# Ignorar ambiente virtual
+myenv/
+
+# Ignorar pasta de caches Python
+_pycache_/
