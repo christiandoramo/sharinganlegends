@@ -11,3 +11,7 @@
 - REQ 08: apontar conteúdo não inédito - cancelar todo o trabalho futuro e rotular o post
 - REQ 09: reescrever textos de forma mais impressionante, adaptada e muito encurtada.
 - REQ 10: buscar conteúdos semelhantes, usando mesmas tags, e buscar pela data/horario
+
+
+notas do projeto:
+    para ignorar alguns arquivos após um commit anterior é necessario remove-lo manualmente, apenas assim o gitignore irá fazer efeito, podendo recolocar os arquivos ignorados na root novamente
