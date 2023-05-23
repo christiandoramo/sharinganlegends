@@ -2,7 +2,6 @@ from selenium import webdriver
 import pyautogui
 
 pyautogui.PAUSE = 1
-# chave youtube AIzaSyC735YKK1BtOzLeiEyOmg4dimsMdO-ECCY
 
 
 browser = webdriver.Chrome()
